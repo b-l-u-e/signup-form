@@ -24,7 +24,6 @@
 body {
   font-family: Poppins, sans-serif;
   background: no-repeat url("../images/bg-intro-desktop.png");
-  background-position: center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
